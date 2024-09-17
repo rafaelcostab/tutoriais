@@ -1,6 +1,6 @@
 ## Vocabulário DEV
 
-Muitas vezes desenvolvedores usam "gírias" ou "jargões" com termos em inglês que dificultam o ouvinte entender do que se trata. Veremos então alguns temos comumente utilizado pela galera de tecnologia para facilitar a comunicação entre Devs e !Devs (se você não é desenvolvedor provavelmente não entendeu essa kkk).
+Muitas vezes desenvolvedores usam "gírias" ou "jargões" com termos em inglês que dificultam o ouvinte entender do que se trata. Veremos então alguns termos comumente utilizado pela galera de tecnologia para facilitar a comunicação entre Devs e !Devs (se você não é desenvolvedor provavelmente não entendeu essa kkk).
 
 ![developer](./undraw_developer_activity.png)
 
